@@ -1,0 +1,2 @@
+[2016-08-11 10:41:54] monologger.INFO: info-log -> {"message":"This is a information log","another message":"What could be another message"} 
+[2016-08-11 10:41:54] monologger.DEBUG: debug-log -> {"message":"This is a debugging log","another message":"What could be another message"} 
