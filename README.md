@@ -1,2 +1,2 @@
-## Monolog file example
-This example will generate log file dynamically for php 5.3 
+**Monolog file example**
+Generate log file dynamically for php 5.3 
